@@ -57,7 +57,7 @@ team_members: # Name is the only required field for team members.
     github: "opticpow"
     twitter: "opticpow"
     linkedin: "https://www.linkedin.com/in/opticpow"
-    website: "opticpow.io"
+    website: "https://opticpow.io"
   - name: "Damian Brady"
     # employer: "Acme Anvil Co."
     # github: "devopsdays"
