@@ -10,7 +10,7 @@ Description = "Location for devopsdays Newcastle 2018"
 > Newcastle
 > NSW Australia
 
-Flights to Newcastle runs direct from Brisbane, Sydney, Melbourne, Canberra, Gold Coast and Byron Bay.
+Flights to Newcastle run direct from Brisbane, Sydney, Melbourne, Canberra, Gold Coast and Byron Bay.
 Newcastle Train Station has trains running from Sydney, Brisbane, Scone, and Muswellbrook via Cityrail and Countrylink services.
 
 For more information about getting to and staying in Newcastle you can check out the NEX [Visit Newcastle page](https://www.thenex.com.au/visit-newcastle)
